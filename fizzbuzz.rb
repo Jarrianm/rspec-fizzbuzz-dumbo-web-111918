@@ -1,10 +1,11 @@
 def fizzbuzz (integer)
-  if (the number is divisible by 3) then
+  if (integer is divisible by 3)
 	return "Fizz"
-elsif (the number is divisible by 5) then
+elsif (integer is divisible by 5)
 	return "Buzz"
-else /* the number is not divisible by 3 or 5 */
-	print the number
-  end if
+elsif  the integer is divisible by 3 or 5
+  return "FizzBuzz"
+else return nil 
+  end
 
 end

@@ -1,6 +1,6 @@
 def fizzbuzz (integer)
   if (integer % 3)
-	return "Fizz"
+	    "Fizz"
 elsif (integer % 5)
 	return "Buzz"
 elsif  (the integer % 3 or 5)

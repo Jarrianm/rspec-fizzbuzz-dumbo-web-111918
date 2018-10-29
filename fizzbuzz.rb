@@ -3,7 +3,7 @@ def fizzbuzz (integer)
 	    "Fizz"
 elsif (integer % 5)
 	    "Buzz"
-elsif  (the integer % 3 or 5)
+elsif  (the integer % 3 && 5)
   return "FizzBuzz"
 else return nil
   end
